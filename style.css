@@ -144,11 +144,13 @@ h6{
     resize: none;
 }
 /** Contact section*/
-
 .separadorBlanco{
     display: flex;
     justify-content: center;
     padding: 0.6rem 0rem 0.6rem 0rem;
+}
+.contact a {
+    text-decoration: none;
 }
 .hero-image-title-3{
     font-size: 4.0vw;
